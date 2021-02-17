@@ -19,6 +19,7 @@ function App() {
           <p>One of the most popular javascript framework.</p>
         </a>
         <button>Button</button>
+        <button>Button 2</button>
       </header>
     </div>
   );
