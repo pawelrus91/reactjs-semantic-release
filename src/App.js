@@ -18,6 +18,7 @@ function App() {
           <h1>Learn React</h1>
           <p>One of the most popular javascript framework.</p>
         </a>
+        <button>Button</button>
       </header>
     </div>
   );
