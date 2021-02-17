@@ -1,12 +1,13 @@
 {
   "name": "reactjs-semantic-release",
-  "version": "0.1.0",
+  "version": "0.0.0-development",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "semantic-release": "semantic-release"
   },
   "husky": {
     "hooks": {
@@ -48,6 +49,11 @@
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "husky": "^4.3.8"
+    "husky": "^4.3.8",
+    "semantic-release": "^17.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawelrus91/reactjs-semantic-release.git"
   }
 }
